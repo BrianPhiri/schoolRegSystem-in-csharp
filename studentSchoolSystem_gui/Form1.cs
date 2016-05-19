@@ -29,7 +29,30 @@ namespace studentSchoolSystem_gui
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Registration reg = new Registration();
+            reg.Show();
+            this.Hide();
+        }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Finance fn = new Finance();
+            fn.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            course cs = new course();
+            cs.Show();
+            this.Hide();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            ExamList el = new ExamList();
+            el.Show();
+            this.Hide();
         }
     }
 }

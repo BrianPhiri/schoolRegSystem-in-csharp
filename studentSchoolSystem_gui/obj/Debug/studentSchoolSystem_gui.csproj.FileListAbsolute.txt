@@ -1,9 +1,16 @@
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\bin\Debug\studentSchoolSystem_gui.exe.config
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\bin\Debug\studentSchoolSystem_gui.exe
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\bin\Debug\studentSchoolSystem_gui.pdb
-D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.csprojResolveAssemblyReference.cache
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.Form1.resources
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.Properties.Resources.resources
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.csproj.GenerateResource.Cache
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.exe
 D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.pdb
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.Finance.resources
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\bin\Debug\Database.mdf
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\bin\Debug\Database_log.ldf
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.Registration.resources
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.course.resources
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.csprojResolveAssemblyReference.cache
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.ExamList.resources
+D:\School\BIF\Year3\Sem1\dotNET\classwork\studentSchoolSystem_gui\studentSchoolSystem_gui\obj\Debug\studentSchoolSystem_gui.Library.resources
